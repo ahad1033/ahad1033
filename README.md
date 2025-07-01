@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I'm a Frontend Developer dedicated to building modern, scalable web applications primarily with React.js, Next.js 15, TypeScript, Redux Toolkit, and Tailwind CSS.<br><br>My focus? Delivering high-performance, clean-architecture solutions that are responsive, accessible, and always put the user first. I've successfully built full-stack applications using the MERN stack, and I integrate modern UI libraries like ShadCN UI and MUI to craft polished interfaces. Need smooth interactions? I use Framer Motion for captivating animations.</p>
+I'm a **Frontend Developer** dedicated to building modern, scalable web applications primarily with **React.js**, **Next.js 15**, **TypeScript**, **Redux Toolkit**, and **Tailwind CSS**.
+
+**My focus?** Delivering high-performance, clean-architecture solutions that are responsive, accessible, and always put the user first. I've successfully built full-stack applications using the **MERN stack**, and I integrate modern UI libraries like **ShadCN UI** and **MUI** to craft polished interfaces. Need smooth interactions? I use **Framer Motion** for captivating animations.
 
 ###
 
