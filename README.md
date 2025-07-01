@@ -54,8 +54,6 @@ I'm a **Frontend Developer** dedicated to building modern, scalable web applicat
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
@@ -64,7 +62,8 @@ I'm a **Frontend Developer** dedicated to building modern, scalable web applicat
 ![](https://nirzak-streak-stats.vercel.app/?user=ahad1033&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahad1033&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahad1033&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ahad1033&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
 ###
